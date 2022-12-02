@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ctd-fe3-final
 
 Examen Final de Frontend III
@@ -92,3 +93,6 @@ Se aceptará la entrega mediante la submisión de la URL de su repositorio clona
 El link al Google Form para la submisión será enviado por el profesor a cargo de la comisión.
 
 Mucha suerte y éxitos!
+=======
+# final-project-frontend3
+>>>>>>> 194e9413b9e3896a7769fe7c7f2b9d464c520e4b
